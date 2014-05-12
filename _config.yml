@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /terson/:categories/:year/:month/:day/:title/
+paginate_path:    /terson/page/:num
+
+# Setup
+title:            Eric Peterson Presents
+tagline:          'Slides and <em>what have you</em>...'
+description:      '<p>Slide decks and presentations by <a href="http://eric.pe/terson" target="_blank">Eric Peterson</a>, probably about software, technology, and <em>what have you</em>.</p><p>Also available in bite-sized form: <a href="https://twitter.com/iamEAP" target="_blank">@iamEAP</a>.</p>'
+url:              http://decks.eric.pe
+
+author:
+  name:           'Eric Peterson'
+  url:            https://twitter.com/iamEAP
+
+paginate:         3
+
+# Custom vars
+github:
+  profile:        https://github.com/iamEAP
