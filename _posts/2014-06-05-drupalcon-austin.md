@@ -22,6 +22,6 @@ A Core Conversation covering the Core Statistics module's weaknesses, the ever-e
 
 A detailed, technical, walkthrough BOF aimed to give you a head start on practicing continuous integration on your Pantheon site.
 
-* Date/Time TBD
+* Wednesday 6/4 at 1:00pm, Room TBD
 * Track: BOF
 * [Slides available here](/terson/on/pantheon-ci)
