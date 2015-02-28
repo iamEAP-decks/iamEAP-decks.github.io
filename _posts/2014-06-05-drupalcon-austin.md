@@ -14,7 +14,7 @@ A Core Conversation covering the Core Statistics module's weaknesses, the ever-e
 
 * Thursday 6/5 at 2:15pm, Room 15 (Commerce Guys | 4th Floor)
 * Track: Core Conversation
-* Slides to-be-posted
+* [Slides available here](/terson/on/data-first-drupal)
 
 [Full details available here](https://austin2014.drupal.org/session/future-drupal-statistics) on the official DrupalCon Austin website.
 
