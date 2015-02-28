@@ -15,11 +15,12 @@ Add Insights as another tool in your marketing tool belt and walk away inspired 
 * The role that engineers play within marketing
 * The challenges marketing organizations face in providing relevant, engaging content
 * Drupal integration with New Relic insights
-* Benefits of and ideas related to deep integration between Insights and your app / framework
+* Benefits of--and ideas related to--deep integration between Insights and your application / framework
 
-## Slides
+## Resources
 
 * View the latest [Give Your App Insights](http://decks.eric.pe/give-your-app-insights) slides online
 * [Fork the Give Your App Insights slides](https://github.com/iameap-decks/give-your-app-insights) on GitHub
+* Download the [New Relic Insights Drupal plugin](https://drupal.org/project/new_relic_insights) here
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/iameap-decks/give-your-app-insights/issues/new) or [ask me on Twitter](https://twitter.com/iamEAP).
