@@ -22,7 +22,7 @@ This talk covers, roughly, the following:
 
 ## Slides
 
-* View the latest [Give Your App Insights](http://decks.eric.pe/data-first-drupal) slides online
-* [Fork the Give Your App Insights slides](https://github.com/iameap-decks/data-first-drupal) on GitHub
+* View the latest [Future of Drupal Statistics](http://decks.eric.pe/data-first-drupal) slides online
+* [Fork the Future of Drupal Statistics slides](https://github.com/iameap-decks/data-first-drupal) on GitHub
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/iameap-decks/data-first-drupal/issues/new) or [ask me on Twitter](https://twitter.com/iamEAP).
